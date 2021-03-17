@@ -1,3 +1,9 @@
 [
-    
+    {
+        "host": "209.163.117.175",
+        "port": 1080,
+        "type": 5,
+        "userId": "user",
+        "password": "password"
+    }
 ]
