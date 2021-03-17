@@ -1,0 +1,10 @@
+[
+    {
+        "guid": "EMAIL",
+        "password": "PASSWORD",
+        "serverPref": "AsiaSouthEast",
+        "pathfinder": true,
+        "usesProxy": false,
+        "autoConnect": true
+    }
+]
